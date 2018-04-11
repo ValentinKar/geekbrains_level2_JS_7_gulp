@@ -1,0 +1,13 @@
+{
+  "result": 1,
+  "comments": [
+    {
+      "id_comment": 123,
+      "result": 1,
+      "id_user": 123,
+      "text": "Текст отзыва",
+      "error_message": "Ваш отзыв был отправлен на модерацию"
+    }
+  ],
+  "error_message": "Сообщение об ошибке"
+}
